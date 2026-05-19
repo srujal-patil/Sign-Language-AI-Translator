@@ -213,6 +213,9 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
+# Custom Project Overrides
+dataset/
+*Gesture Speech*
+isl_dataset_cleaned.csv
 # Streamlit
 .streamlit/secrets.toml
